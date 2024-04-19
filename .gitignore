@@ -1,52 +1,59 @@
-# Prerequisites
-*.d
+<!DOCTYPE html>
+<html>
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>SHIVA</title>
+  <link rel="stylesheet"  href="style.css">
+  <body>
+    <p>jdjdhdhdhfjffdudhjdjdjdjdjd<br>hdhdjjdjdjjddjfjj<br>dhhdhdhdhfhfhfhhf</p><br>
+  <div class="header">
+    <div class="a">amit</div>
+    <div class="b">anit</div>
+    <div class="c">anuj</div>
+  </div> <br><br>
+    <div class="head">
+      <div class="logo">AMIT ELECTRONIC</div>
+      <div class="menu">
+        <ul><a href="https://www.google.com">
+        <div class="list1">
+          <li class="s">home </li>
+          <li class="s">about </li>
+          <li class="s">contact</li>
+        </div>
+        </a>
 
-# Linker output
-*.ilk
-*.map
-*.exp
+        </ul>
+      </div>
+      <div>
+        
+          <ul class="option">
+      <div class="list2">
+          <li>web </li>
+          <li>app </li>
+          <li>ai ml</li>
+      </div>
+          </ul>
+        
+      </div>
+        
+      
+    </div> <br>
+<div class="select">
+<select class="ss">
+  <option style="color:red">select</option>
+  <option  class="op" value="web">business</option>
+    <option class="op" value="web">self</option>
+  
+</select>
+</div>
+    <br>
+  <div>
+     
+  </div>
+  
 
-# Precompiled Headers
-*.gch
-*.pch
+</body>
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
-
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+</html>
